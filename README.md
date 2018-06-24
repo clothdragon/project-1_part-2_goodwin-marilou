@@ -3,7 +3,7 @@
 ## Links
 
 * [Project 1 Part 2 link on Github](https://github.com/clothdragon/project-1_part-2_goodwin-marilou)
-* [Project 1 Part 2 Live](http://www.marilougoodwin/ydc/)
+* [Project 1 Part 2 Live](http://marilougoodwin.com/ydc/index.html)
 
 ## Resources
 * [Google Fonts](https://fonts.google.com/)
