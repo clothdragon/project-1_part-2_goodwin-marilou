@@ -3,20 +3,22 @@
 .button {
 
   &--primary {
+    @include button ($accent-green, $background-white);
 
     &:hover {
-
+      @include button-hover;
     }
   }
 
   &--secondary {
+    @include button ($accent-red, $background-white);
 
     &:hover {
-
+      @include button-hover;
     }
   }
 
   &--disabled {
-
+    @include button ($neutral-gray, $dark-gray);
   }
 }
